@@ -1,0 +1,6 @@
+framework module Pods_BloodBank {
+  umbrella header "Pods-BloodBank-umbrella.h"
+
+  export *
+  module * { export * }
+}
